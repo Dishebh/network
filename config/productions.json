@@ -1,4 +1,0 @@
-{
-  "mongoURI": "mongodb+srv://dishebh:12345@cluster0-c4697.mongodb.net/social-network?retryWrites=true&w=majority",
-  "jwtSecret": "my-tiny-little-scret-here-haha"
-}
